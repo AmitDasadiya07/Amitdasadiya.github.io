@@ -15,7 +15,7 @@ The portfolio loads instantly—no setup needed!
 
 Option 2: View Locally (Manual via ZIP):
 
-Step 1: Go to https://github.com/Amitdasadiya.github.io.
+Step 1: Go to [https://github.com/Amitdasadiya.github.io.](https://github.com/AmitDasadiya07/Amitdasadiya.github.io)
 
 Step 2: Click the green "Code" button, then select "Download ZIP".
 
